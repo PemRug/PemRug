@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @PemRug<br><br>- My Name is Paola Mejia <br>- I am 31 years old<br>- 👀 *I’m interested in:*<br>- Web Development (Front End and Testing) ⌨️<br>- Rugby<br>- Administration<br>- 🌱 *I’m currently learning:* Java<br>- 💞️ *I’m looking to collaborate on:* a company with clear goals.<br>- 📫 *How to reach me:* paolamejia955@gmail.com<br>- ⚡ *Fun fact:* I like to play D&D with complex characters.<br>![cv photo]([https://github.com/PemRug/PemRug/assets/129247444/69d57663-528e-4471-8cf7-8cc1a3488fbb](https://raw.githubusercontent.com/PemRug/PemRug/main/Copia%20de%20WEB%20DEVELOPER.png)<br><!---<br>PemRug/PemRug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>--->
-
+- 👋 Hi, I’m @PemRug<br><br>- My Name is Paola Mejia <br>- I am 31 years old<br>- 👀 *I’m interested in:*<br>- Web Development (Full Stack) ⌨️<br>- Rugby<br>- Administration<br>- 🌱 *I’m currently learning:* Java<br>- 💞️ *I’m looking to collaborate on:* a company with clear goals.<br>- 📫 *How to reach me:* paolamejia955@gmail.com<br>- ⚡ *Fun fact:* I like to play D&D with complex characters.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paola-mejia-rosero/) 
